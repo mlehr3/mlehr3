@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+If you came here from LinkedIn or my resume, then you're in the right place. I look forward to developing this page as an exploration of my portfolio, follow me to see more!
 <!--
 **mlehr3/mlehr3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
