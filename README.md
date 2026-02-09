@@ -13,34 +13,71 @@ I am striving to master DNS, Python, and DevOps and enjoy demoing new software.
 
 ---
 
+
 ## Tech Stack
 
-**Languages:** Python, HCL, Bash, JavaScript, HTML, CSS
 
-**Backend:** Serverless, Django, Flask
+### Languages
+<picture>
+  <img alt="HTML Icon" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+</picture>
+<picture>
+  <img alt="CSS Icon" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+</picture>
+<picture>
+  <img alt="JavaScript Icon" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+</picture>
+<picture>
+ <img alt="Python Icon" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/opentofu/brand-artifacts/blob/main/symbol-only/transparent/SVG/on-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/opentofu/brand-artifacts/blob/main/symbol-only/transparent/SVG/on-light.svg">
+  <img alt="OpenTofu Icon" height="60" style="aspect-ration: auto;" src="https://github.com/opentofu/brand-artifacts/blob/main/symbol-only/with-bg/SVG/on-yellow.svg">
+</picture>
+<picture>
+ <img alt="MarkDown Icon" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
+</picture>
 
-**Tools & Platforms:** Linux, AWS, OpenTofu, Git & GitHub
 
-**Technologies**: Containers, GIS, Drafting
+### Tools
 
-**Data Analysis** Geospatial data processing `python-shapely`
+
+<picture>
+ <img alt="Firefox Icon" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg">
+</picture>
+<picture>
+ <img alt="PostgreSQL Icon" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+</picture>
+<picture>
+ <img alt="Linux Icon" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
+</picture>
+<picture>
+ <img alt="Docker Icon" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+</picture>
+<picture>
+ <img alt="Git Icon" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+</picture>
+
+### Structured Data
+
+
+<picture>
+ <img alt="JSON Icon" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg">
+</picture>
+<picture>
+ <img alt="XML Icon" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg">
+</picture>
+<picture>
+ <img alt="YAML Icon" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg">
+</picture>
+<picture>
+ <img alt="Pandas Icon" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
+</picture>
 
 ---
 
-## Professional Work
-
-Via Lunar Drift LLC, I own and provide the following tech services.
-- Design/Build Serverless Functions
-- Managed Content Distribution Networks
-- Managed Records and Registration for Domain Names
-- Full Stack OpenTofu Modules for AWS
-- Microsoft 365 Identity Management
-- Spatial Data Processing
-- Managed Email Services
-- More to come
-
-Reach me at: matthew@lunardrift.net
-[GitHub](https://github.com/lunar-drift)
+**Other Technologies**: GIS, Drafting
 
 ---
 
@@ -50,6 +87,4 @@ I sponsor the Logseq, Django, and OpenTofu projects and look forward to doing mo
 
 ---
 
-
-
-*Last updated: February 5, 2026*
+*Last updated: February 9, 2026*
