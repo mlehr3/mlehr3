@@ -1,15 +1,10 @@
 # Hello, I'm Matthew
 
-This is a great starting point to explore all of the things I have created with code. 
+<p>I'm a Software Engineer with a passion for working with internet systems in GitOps environments.  </p>
+<p>I enjoy helping others achieve their goals, and I'm always excited to collaborate on projects that serve others.</p>
+<p>I am striving to master IP Networking, Python, and AWS DevOps.</p>
 
----
-
-## About Me
-
-I'm a Software Engineer with a passion for building and designing internet systems. I love helping others achieve their goals, and I'm always excited to collaborate on projects that serve others.
-
-I am striving to master DNS, Python, and DevOps and enjoy demoing new software.
-
+<p>I am currently demoing Claude Code on a project that I have been interested in for awhile. I have built quite a few "business card websites" for friends & family and have found a powerful tech stack that I think developers, small business, and creatives would be interested in. There is no public information yet, but it will be located at <a href ="https://studio.lunardrift.net">studio.lunardrift.net</a>. The code works around Python, AWS, OpenTofu, and GitHub.</p> 
 
 ---
 
