@@ -17,12 +17,6 @@
   <img alt="HTML Icon" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 </picture>
 <picture>
-  <img alt="CSS Icon" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-</picture>
-<picture>
-  <img alt="JavaScript Icon" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-</picture>
-<picture>
  <img alt="Python Icon" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 </picture>
 <picture>
